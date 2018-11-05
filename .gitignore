@@ -1,0 +1,10 @@
+out/
+*.class
+compiler.xml
+description.html
+encodings.xml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+H1BReport.iml
